@@ -1,0 +1,7 @@
+extractor/
+*.out
+*~
+*.mat
+
+
+!LQCD_A1.mat
